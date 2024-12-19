@@ -1,3 +1,3 @@
-let banco = [];
+let pessoas = [];
 let produtos = [];
 module.exports = { pessoas , produtos };
